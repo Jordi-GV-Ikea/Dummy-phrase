@@ -3,18 +3,18 @@ phrase:
   project_id: 74c513cde1864f3737f329c1f680ac2b
   push:
   sources:
-  - file: "./locales/en-EN.json"
+  - file: "./src/locales/en-EN.json"
     params:
       file_format: simple_json
       locale_id: 473d7c3c6a76b3152be683c6c5cbf95e
       update_Translation: true
 pull:
   targets:
-  - file: "./locales/es-ES.json"
+  - file: "./src/locales/es-ES.json"
     params:
       file_format: simple_json
       locale_id: a3e8ed5259a0b921ad3791433a123c38
-  - file: "./locales/ca-ES.json"
+  - file: "./src/locales/ca-ES.json"
     params:
       file_format: simple_json
       locale_id: 02b5dc00faaed69a1ba55d5187716239
