@@ -1,5 +1,5 @@
 # Github
-https://github.com/Jordi-GV-Ikea/Dummy-phrase.git
+https://github.com/Jordi-GV-Ikea/dummy-phrase.git
 
 ## Available Scripts
 
