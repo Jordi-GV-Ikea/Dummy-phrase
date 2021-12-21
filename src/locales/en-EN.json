@@ -1,5 +1,7 @@
 {
   "Hello": "Hello",
   "World": "World",
-  "year":"year"
+  "year":"year",
+  "one":"one",
+  "two":"two"
 }
