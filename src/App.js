@@ -1,16 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
-import data from '../locales/numbers.json'
+import data from './locales/es-ES.json'
 
-const numbers = data;
+const phrase = data;
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Phrase</h1>
-        {numbers.one}/{numbers.two}
+        <h3>Phrase</h3>
+        <hr/>
+        {phrase.Hello} {phrase.World}
       </header>
     </div>
   );
