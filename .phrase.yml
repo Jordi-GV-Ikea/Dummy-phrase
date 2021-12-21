@@ -3,7 +3,7 @@ phrase:
   project_id: 74c513cde1864f3737f329c1f680ac2b
   push:
   sources:
-  - file: "./src/locales/en-EN.json"
+  - file: "./src/locales/en-US.json"
     params:
       file_format: simple_json
       locale_id: 473d7c3c6a76b3152be683c6c5cbf95e
